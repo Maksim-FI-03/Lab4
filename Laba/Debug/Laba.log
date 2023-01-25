@@ -1,0 +1,5 @@
+﻿  Laba.cpp
+C:\Users\User\source\repos\Laba\Laba\Laba.cpp(43,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Laba\Laba\Laba.cpp(46,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Laba\Laba\Laba.cpp(142,23): warning C4018: '<': signed/unsigned mismatch
+  Laba.vcxproj -> C:\Users\User\source\repos\Laba\Debug\Laba.exe
